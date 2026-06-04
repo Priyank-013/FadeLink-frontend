@@ -1,16 +1,35 @@
-# React + Vite
+# FadeLink - Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Frontend for FadeLink, a file sharing platform that allows users to upload multiple files and generate a single shareable link with automatic expiration.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Live Demo
+https://fadelink.netlify.app/
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Backend API (Connected To)
+https://fadelink-backend-production.up.railway.app/
 
-## Expanding the ESLint configuration
+⚠️ Note: This is a REST API backend. It does not have a frontend UI.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## Features
+- Upload multiple files (images, documents, videos)
+- Generate single shareable link
+- Download all files as a ZIP archive
+- Download files individually
+- Automatic file expiration for improved privacy and storage management
+- Responsive and user-friendly interface
+
+
+## Tech Stack (Frontend)
+- HTML
+- CSS
+- React
+
+## Future Improvements
+-User authentication and account management
+-Custom expiration times
+-Password-protected links
+-Upload history dashboard
+-Premium storage plans  
