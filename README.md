@@ -27,6 +27,9 @@ https://fadelink-backend-production.up.railway.app/
 - CSS
 - React
 
+## Related Repositories 
+- Backend: https://github.com/Priyank-013/FadeLink-backend/tree/main
+
 ## Future Improvements
 - User authentication and account management
 - Custom expiration times
