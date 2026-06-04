@@ -28,8 +28,8 @@ https://fadelink-backend-production.up.railway.app/
 - React
 
 ## Future Improvements
--User authentication and account management
--Custom expiration times
--Password-protected links
--Upload history dashboard
--Premium storage plans  
+- User authentication and account management
+- Custom expiration times
+- Password-protected links
+- Upload history dashboard
+- Premium storage plans  
