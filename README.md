@@ -2,37 +2,38 @@
 
 Frontend for FadeLink, a file sharing platform that allows users to upload multiple files and generate a single shareable link with automatic expiration.
 
+## Live Application
 
-## Live Demo
 https://fadelink.netlify.app/
 
 
-## Backend API (Connected To)
-https://fadelink-backend-production.up.railway.app/
-
-⚠️ Note: This is a REST API backend. It does not have a frontend UI.
-
-
 ## Features
-- Upload multiple files (images, documents, videos)
-- Generate single shareable link
-- Download all files as a ZIP archive
-- Download files individually
-- Automatic file expiration for improved privacy and storage management
-- Responsive and user-friendly interface
 
+* Upload multiple files
+* Generate a single shareable link
+* Download all files as a ZIP archive
+* Download files individually
+* Automatic file expiration
+* Responsive user interface
 
-## Tech Stack (Frontend)
-- HTML
-- CSS
-- React
+## Tech Stack
 
-## Related Repositories 
-- Backend: https://github.com/Priyank-013/FadeLink-backend/tree/main
+* React
+* HTML
+* CSS
+* JavaScript
+
+## Related Repositories
+
+### Backend
+
+https://github.com/Priyank-013/FadeLink-backend
 
 ## Future Improvements
-- User authentication and account management
-- Custom expiration times
-- Password-protected links
-- Upload history dashboard
-- Premium storage plans  
+
+* User authentication and account management
+* Custom expiration times
+* Password-protected links
+* Upload history dashboard
+* Cloud storage integration
+* Premium storage plans
