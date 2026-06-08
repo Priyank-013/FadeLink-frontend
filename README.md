@@ -29,11 +29,3 @@ https://fadelink.netlify.app/
 
 https://github.com/Priyank-013/FadeLink-backend
 
-## Future Improvements
-
-* User authentication and account management
-* Custom expiration times
-* Password-protected links
-* Upload history dashboard
-* Cloud storage integration
-* Premium storage plans
