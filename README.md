@@ -27,5 +27,5 @@ https://fadelink.netlify.app/
 
 ### Backend
 
-https://github.com/Priyank-013/FadeLink-backend
+[FadeLink-backend](https://github.com/Priyank-013/FadeLink-backend)
 
